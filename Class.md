@@ -4,7 +4,7 @@
 
 2._'New' keyword sends request to the class so that class can generate object_
 
-3._Class is a template for object _
+3._Class is a template for object_
 
 4._It is a blueprint for creating object_
 
