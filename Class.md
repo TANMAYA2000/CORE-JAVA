@@ -1,7 +1,8 @@
 **CLASS NOTES**
+
 1._Class generates an Object_
 
-2._"New" keyword sends request to the class so that class can generate object_
+2._'New' keyword sends request to the class so that class can generate object_
 
 3._Class is a template for object _
 
