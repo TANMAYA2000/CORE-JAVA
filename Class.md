@@ -19,21 +19,20 @@ public class A {
   }
 }
 ```
-**NEW KEYWORD**
+# NEW KEYWORD
    
 1.'new' keyword sends request to the class to create object
 
 2.once object is created 'new' keyword will get object address which stores that in refrence variabels
 
 
-
-   **GARBAGE COLLECTOR**
+# GARBAGE COLLECTOR
    
-   Garbage collector keeps removing objects from the ram on regular basis thus avoiding overflow of memory
+  1. Garbage collector keeps removing objects from the ram on regular basis thus avoiding overflow of memory
    
-   ....this makes the meomry management efficient.....
+   2.  ....this makes the meomry management efficient.....
    
-   **OBJECT**
+# OBJECT
    
    1.Object is a instance of a class
    
