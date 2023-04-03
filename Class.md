@@ -1,13 +1,13 @@
 **CLASS NOTES**
 
 
-1. _Class generates an Object_
+1. Class generates an Object
 
-2. _'New' keyword sends request to the class so that class can generate object_
+2. 'New' keyword sends request to the class so that class can generate object
 
-3. _Class is a template for object_
+3. Class is a template for object
 
-4. _It is a blueprint for creating object_
+4. It is a blueprint for creating object
 
          #Always remember name of class should be match with filename otherwise code will not execute
 
@@ -19,23 +19,23 @@ public class A {
   }
 }
 ```
-                                                             **NEW KEYWORD**
+**NEW KEYWORD**
    
-1._'new' keyword sends request to the class to create object_
+1.'new' keyword sends request to the class to create object
 
-2._once object is created 'new' keyword will get object address which stores that in refrence variabels_
+2.once object is created 'new' keyword will get object address which stores that in refrence variabels
 
 
 
    **GARBAGE COLLECTOR**
    
-   _Garbage collector keeps removing objects from the ram on regular basis thus avoiding overflow of memory_
+   Garbage collector keeps removing objects from the ram on regular basis thus avoiding overflow of memory
    
    ....this makes the meomry management efficient.....
    
    **OBJECT**
    
-   1._Object is a instance of a class_
+   1.Object is a instance of a class
    
-   2._It is a real world entity that has an identity behaviour_ 
+   2.It is a real world entity that has an identity behaviour_
    
