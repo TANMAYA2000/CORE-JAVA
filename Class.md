@@ -1,5 +1,5 @@
 **CLASS NOTES**
-
+# CLASS
 
 1. Class generates an Object
 
