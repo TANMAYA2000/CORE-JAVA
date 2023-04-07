@@ -13,3 +13,17 @@ public class A {
   }
 }
 ```
+```java
+
+
+public class A {
+		  int x = 56;//Non-Static
+		  public static void main(String [] args){
+		    A a1 = new A();//Here new keyword creates and object and value of x is stored in refrence variable in a1 and a2 both
+		    A a2 = new A(); 
+		    System.out.println(a1.x);
+		    System.out.println(a2.x);
+		  }
+		}
+```   
+
