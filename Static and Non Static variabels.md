@@ -29,7 +29,7 @@ public class A {
 		  }
 		}
 ```
-# Static
+# Static  
 
 1. Static is also known as class **_variable_**
 2. Static variable is created outside class inside method using static keyword
