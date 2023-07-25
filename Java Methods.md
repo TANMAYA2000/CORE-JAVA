@@ -15,7 +15,7 @@ public class A {
 			
 		}
 }
-```
+```java
 
 *** If method is Static ***
 public class A{
@@ -27,7 +27,7 @@ public class A{
 	  System.out.println("100");
   }
 }
-
+```
 
 
 
