@@ -16,4 +16,8 @@
      # METASPACE
 
      - Basically metaspace is a location in Stack where static and non-static variables both are saved
+    
+
+
+       
  ###this was introduced in java 8###
