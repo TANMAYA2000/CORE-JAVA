@@ -37,4 +37,12 @@ public class A {
    1.Object is a instance of a class
    
    2.It is a real world entity that has an identity behaviour_
+
+# DIFFERENCE BETWEEN OBJECT AND CLASS
+
+| CLASS | OBJECT |
+|-------|--------|
+| Class is the logical entity | object is the physical entity |
+| Class declared once | object create many times as per recquierment |
+| Memory doesn't allocate | object allocate memory |
    
