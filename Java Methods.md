@@ -17,7 +17,7 @@ public class A {
 }
 ```
 
-**If method is Static**
+- **If method is Static**
 ```java
 public class A{
 	 public static void main(String[] args) {
