@@ -1,5 +1,5 @@
 # STACK
--Stack maintai9ns program executioon flowand it maintains LIFO (LAST IN FORST OUT).
+- Stack maintains program execution flow and it maintains LIFO (LAST IN FORST OUT).
 - Code as it is loaded in stack memory.
 - New obeject created in _Heap memory_.
 - Once the execution is done code popped out from stack memory.
