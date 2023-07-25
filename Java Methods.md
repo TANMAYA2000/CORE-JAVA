@@ -15,9 +15,10 @@ public class A {
 			
 		}
 }
-```java
+```
 
 *** If method is Static ***
+```java
 public class A{
 	 public static void main(String[] args) {
 		 A.test1();
