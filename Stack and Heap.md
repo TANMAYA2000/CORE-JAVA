@@ -21,4 +21,5 @@
 
        
 **This was introduced in java 8**
+
 **_Memory management will become effective in java when the program is executed all stack and heap are empted_**
