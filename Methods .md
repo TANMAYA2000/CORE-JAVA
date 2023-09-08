@@ -1,5 +1,6 @@
 # METHODS
 * It is a block of code which we can use whenever we needed
+* It help us to build resuable module
 * Void method cannot return any value
 Below example is showing not a void method and return a vlaue
 ```Java
